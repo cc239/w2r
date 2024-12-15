@@ -48,4 +48,4 @@ jobs:
         git add rss/*
         git commit -m "Update RSS feeds"
         git remote set-url --push origin https://cc239:$GITHUB_TOKEN@github.com/cc239/w2r
-        git push origin master
+        git push origin main
