@@ -3,7 +3,7 @@ name: Generate RSS Feed
 on:
   push:
     branches:
-      - master  # 或你想要的分支
+      - main  # 或你想要的分支
     paths:
       - '.github/workflows/rss_generator.yml'
       - 'rss_generator.py'
