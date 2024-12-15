@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>rapid7_blog</title>
+    <link>https://www.rapid7.com/blog/posts/</link>
+    <description>Latest posts from https://www.rapid7.com/blog/posts/. follow.is: feedId:71371191432910863+userId:71370844472670208</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Sun, 15 Dec 2024 01:48:25 +0000</lastBuildDate>
+    <item>
+      <title>A Bag of RATs: VenomRAT vs. AsyncRAT</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/21/a-bag-of-rats-venomrat-vs-asyncrat/</link>
+      <description>Remote access tools (RATs) have long been a favorite tool for cyber attackers, since they enable remote control over compromised systems and facilitate data theft, espionage, and continuous monitoring of victims. Among the well-known RATs are VenomRAT and AsyncRAT.</description>
+    </item>
+    <item>
+      <title>Metasploit Weekly Wrap-Up 11/22/2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/22/metasploit-weekly-wrap-up-11-22-2024/</link>
+      <description>JetBrains TeamCity Login Scanner
+Metasploit added a login scanner for the TeamCity application to enable users to
+check for weak credentials. TeamCity has been the subject of multiple ETR
+vulnerabilities
+ 
+and is a valuable target for attackers.
+
+Targeted DCSync added to Windows Secrets Dump
+This week, Metasploit community member smashery</description>
+    </item>
+    <item>
+      <title>New “CleverSoar” Installer Targets Chinese and Vietnamese Users</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/27/new-cleversoar-installer-targets-chinese-and-vietnamese-users/</link>
+      <description>In early November, Rapid7 Labs identified a new, highly evasive malware installer, 'CleverSoar,' targeting Chinese and Vietnamese-speaking victims.</description>
+    </item>
+    <item>
+      <title>Metasploit Weekly Wrap-Up 11/29/2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/11/29/metasploit-weekly-wrapup-11-29-2024/</link>
+      <description>Four new Metasploit modules released, including CUPS IPP Attributes LAN Remote Code Execution CVE-2024-47176</description>
+    </item>
+    <item>
+      <title>Why Cybercriminals Are Not Necessarily Embracing AI</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/02/why-cybercriminals-are-not-necessarily-embracing-ai/</link>
+      <description>The rapid advancement of AI has offered powerful tools for malware detection, but it has also introduced new avenues for adversarial attacks.</description>
+    </item>
+    <item>
+      <title>Expanded SOC Coverage Into AWS Environments with Rapid7 MXDR</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/03/expanded-soc-coverage-into-aws-environments-with-rapid7-mxdr/</link>
+      <description>With Rapid7’s Managed Extended Detection and Response (MXDR) service, organizations can confidently scale their cloud investments without sacrificing the comprehensive coverage they’re familiar with today.</description>
+    </item>
+    <item>
+      <title>Lorex 2K Indoor Wi-Fi Security Camera: Multiple Vulnerabilities (FIXED)</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/03/lorex-2k-indoor-wi-fi-security-camera-multiple-vulnerabilities-fixed/</link>
+      <description>The Lorex 2K Indoor Wi-Fi Security Camera is a consumer security device that provides cloud-based video camera surveillance capabilities. This device was a target at the 2024 Pwn2Own IoT competition. As of December 3, 2024, we are disclosing these issues publicly in coordination with the vendor.</description>
+    </item>
+    <item>
+      <title>Black Basta Ransomware Campaign Drops Zbot, DarkGate, and Custom Malware</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/04/black-basta-ransomware-campaign-drops-zbot-darkgate-and-custom-malware/</link>
+      <description>Beginning in early October, Rapid7 has observed a resurgence of activity related to the ongoing social engineering campaign being conducted by Black Basta ransomware operators.</description>
+    </item>
+    <item>
+      <title>Rapid7 Extends Cloud Security Capabilities with Updates to Exposure Command</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/06/rapid7-extends-cloud-security-capabilities-with-updates-to-exposure-command/</link>
+      <description>With purpose-built harvesting technology providing real-time visibility into everything running across multi-cloud environments, Exposure Command from Rapid7 ensures teams have an up-to-date inventory, mapping their cloud attack surface and enriching asset data with risk and business context.</description>
+    </item>
+    <item>
+      <title>Metasploit Weekly Wrap-Up 12/06/2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/06/metasploit-weekly-wrap-up-44/</link>
+      <description>Post-Thanksgiving Big Release
+This week's release is an impressive one. It adds 9 new modules, which will get
+you remote code execution on products such as Ivanti Connect Secure, VMware
+vCenter Server, Asterisk, Fortinet FortiManager and Acronis Cyber Protect. It
+also includes an account takeover on Wordpress, a local privilege escalation on
+Windows and a X11 keylogger module. Finally, this release improves the
+fingerprinting logic for the TeamCity login module and adds instructions about
+the in</description>
+    </item>
+    <item>
+      <title>Widespread Exploitation of Cleo File Transfer Software (CVE-2024-55956)</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/10/etr-widespread-exploitation-of-cleo-file-transfer-software-cve-2024-50623/</link>
+      <description>On Monday, December 9, multiple security firms began privately circulating
+reports of in-the-wild exploitation targeting Cleo file transfer software. Late
+the evening of December 9, security firm Huntress published a blog
+ 
+on active exploitation of three different Cleo products (docs
+
+):
+
+ *</description>
+    </item>
+    <item>
+      <title>Patch Tuesday - December 2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/10/patch-tuesday-december-2024/</link>
+      <description>1 zero-day. CLFS EoP. 16 critical RCEs. Hyper-V container escape. Multiple Remote Desktop Services RCE.</description>
+    </item>
+    <item>
+      <title>Modular Java Backdoor Dropped in Cleo Exploitation Campaign</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/11/etr-modular-java-backdoor-dropped-in-cleo-exploitation-campaign/</link>
+      <description>While investigating incidents related to Cleo software exploitation, Rapid7 Labs and MDR team discovered a novel, multi-stage attack that deploys an encoded Java Archive (JAR) payload.</description>
+    </item>
+    <item>
+      <title>Navigating Choppy Waters: Top Security Predictions from Rapid7's 2025 Webinar</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/12/navigating-choppy-waters-top-security-predictions-from-rapid7s-2025-webinar/</link>
+      <description>Hosted by industry heavy hitter Brian Honan, CEO of BH Consulting, the webinar brought together Rapid7 security and policy experts Raj Samani, Chief Scientist, and Sabeen Malik, VP of Global Government Affairs and Public Policy.</description>
+    </item>
+    <item>
+      <title>Metasploit Weekly Wrap-Up 12/13/2024</title>
+      <link>https://www.rapid7.com/blog/post/2024/12/13/metasploit-weekly-wrap-up-12-13-2024/</link>
+      <description>It’s raining RCEs!
+It's the second week of December and the weather forecast announced another
+storm of RCEs in Metasploit-Framework land. This weekly release includes RCEs
+for Moodle e-Learning platform, Primefaces, WordPress Really Simple SSL and
+CyberPanel along with two modules to change password through LDAP and SMB
+protocol.
+
+New module content (7)
+Change Password
+Author: smashery
+Type: Auxiliary
+Pull request: #19671  
+contributed</description>
+    </item>
+  </channel>
+</rss>

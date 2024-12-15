@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>deeplearning</title>
+    <link>https://www.deeplearning.ai/the-batch/</link>
+    <description>Latest posts from https://www.deeplearning.ai/the-batch/. follow.is: None</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Sun, 15 Dec 2024 01:48:48 +0000</lastBuildDate>
+    <item>
+      <title>AI Restores ALS Patient’s Voice, AI Lobby Grows, Agentic Coding Advances, Massively Multimodal Model</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-264/</link>
+      <description>The Batch AI News and Insights: After a recent price reduction by OpenAI, GPT-4o tokens now cost $4 per million tokens (using a blended rate that assumes 80% input and 20% output tokens).</description>
+    </item>
+    <item>
+      <title>Hallucination Index, AI-Powered Policing Goes National, Explainable LLMs, Faster Processing for Longer Inputs</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-265/</link>
+      <description>The Batch AI News and Insights: Recently I visited South Korea, where I spoke at length about AI with President Yoon Suk Yeol. Based on what I saw there in government, business, and academia, the nation is well positioned to become a strong AI hub.</description>
+    </item>
+    <item>
+      <title>Nations Sign Binding AI Treaty, Waymo Reveals Safety Record, 2D to 3D Goes Mainstream, Balancing Web Data Distributions</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-266/</link>
+      <description>The Batch AI News and Insights: Over the weekend, my two kids colluded in a hilariously bad attempt to mislead me to look in the wrong place during a game of hide-and-seek.</description>
+    </item>
+    <item>
+      <title>Models Built for Reasoning, High Gear for Llama 3.1, Brains for Warehouse Robots, Stopping LLMs From Plagiarizing</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-267/</link>
+      <description>The Batch AI News and Insights: Years ago, when I was working at a large tech company, I was responsible for the data warehouse.</description>
+    </item>
+    <item>
+      <title>Hollywood Embraces Video Gen, New Restrictions on Deepfakes, More Open Source Models, Robot Server</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-268/</link>
+      <description>The Batch AI News and Insights: Last week I spoke at Coursera Connect, the company’s annual conference in Las Vegas, where a major topic was AI and education.</description>
+    </item>
+    <item>
+      <title>Llama Goes Multimodal, Pros Embrace Generative Video, Military AI Guidelines, LLMs That Read Spreadsheets</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-269/</link>
+      <description>The Batch AI News and Insights: We won! California’s anti-innovation bill SB 1047 was vetoed by Governor Newsom over the weekend.</description>
+    </item>
+    <item>
+      <title>How Meta’s Movie Gen Does It, AI’s Criminal Underground, Court Says LAION is Legal, OpenAI’s New Voice API</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-270/</link>
+      <description>The Batch AI News and Insights: Congratulations to Geoff Hinton and John Hopfield for winning the 2024 Physics Nobel Prize!</description>
+    </item>
+    <item>
+      <title>Bogus Apps, AI Boomtown, Better Embeddings, 2024 Highlights</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-271/</link>
+      <description>The Batch AI News and Insights: It’s high time to take geoengineering more seriously as a potential tool to mitigate climate change.</description>
+    </item>
+    <item>
+      <title>AI Giants Go Nuclear, A Tech Bromance Turns Turbulent, Mistral Sharpens the Edge, Cheaper Video Generation</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-272/</link>
+      <description>The Batch AI News and Insights: Startups live or die by their ability to execute at speed.</description>
+    </item>
+    <item>
+      <title>Trick or treat! AI Devours Energy, Innovation Can’t Win, Models Collapse, Benchmark Tests Are Meaningless, No Work for Coders</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-273/</link>
+      <description>The Batch AI News and Insights: Welcome to our special Halloween issue of The Batch, in which we probe fears, anomalies, and shadows of AI.</description>
+    </item>
+    <item>
+      <title>AI Controls Desktops, Agents Train Algorithms, Does Anyone Comply With the EU’s AI Act?, Robots on the Loading Dock</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-274/</link>
+      <description>The Batch AI News and Insights: Trump and the Republican party chalked up huge wins this week. Did manipulation of social media by generative AI play any role in this election?</description>
+    </item>
+    <item>
+      <title>Llama On the Battlefield, Mixture of Experts Pulls Ahead, Open Agentic Platform, Voter Support Chatbot</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-275/</link>
+      <description>The Batch AI News and Insights: Large language models (LLMs) are typically optimized to answer peoples’ questions.</description>
+    </item>
+    <item>
+      <title>Next-Gen Models Show Limited Gains, Real-Time Video Generation, China AI Chips Blocked, Transformer Training Streamlined</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-276/</link>
+      <description>The Batch AI News and Insights: A small number of people are posting text online that’s intended for direct consumption not by humans, but by LLMs (large language models).</description>
+    </item>
+    <item>
+      <title>DeepSeek Takes On OpenAI, Robots Fold Laundry, Amazon and Anthropic Expand Partnership, More Efficient Object Detection</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-277/</link>
+      <description>The Batch AI News and Insights: DeepSeek Takes On OpenAI, Robots Fold Laundry, Amazon and Anthropic Expand Partnership, More Efficient Object Detection.</description>
+    </item>
+    <item>
+      <title>AI Agents Spend Real Money, Breaking Jailbreaks, Mistral Goes Big and Multimodal, AI’s Growing E-Waste Problem</title>
+      <link>https://www.deeplearning.ai/the-batch/issue-278/</link>
+      <description>The Batch AI News and Insights: AI Agents Spend Real Money, Breaking Jailbreaks, Mistral Goes Big and Multimodal, AI’s Growing E-Waste Problem.</description>
+    </item>
+    <item>
+      <title>Amazon Nova’s Competitive Price/Performance, OpenAI o1 Pro’s High Price/Performance, Google’s Game Worlds on Tap, Factual LLMs</title>
+      <link>https://www.deeplearning.ai/the-batch/tag/dec-11-2024/</link>
+      <description>The Batch AI News and Insights: AI Product Management is evolving rapidly. The growth of generative AI and AI-based developer tools has created numerous opportunities to build AI applications.</description>
+    </item>
+  </channel>
+</rss>

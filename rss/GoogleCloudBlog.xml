@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>GoogleCloudBlog</title>
+    <link>https://cloud.google.com/blog</link>
+    <description>Latest posts from https://cloud.google.com/blog. follow.is: feedId:76529357699500032+userId:71370844472670208</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Sun, 15 Dec 2024 01:48:44 +0000</lastBuildDate>
+    <item>
+      <title>Understand how your users are using Gemini for Google Cloud with Cloud Logging and Monitoring</title>
+      <link>https://cloud.google.com/blog/products/management-tools/cloud-logging-and-monitoring-support-gemini-for-google-cloud</link>
+      <description>Management ToolsUnderstand how your users are using Gemini for Google Cloud with Cloud Logging and MonitoringBy Calvin Cheng • 4-minute read</description>
+    </item>
+    <item>
+      <title>To avoid “bill shocks,” Palo Alto Networks deploys custom AI-powered cost anomaly detection</title>
+      <link>https://cloud.google.com/blog/topics/cost-management/palo-alto-networks-custom-cost-anomaly-detection-with-ai-bill-shocks</link>
+      <description>Cost ManagementTo avoid “bill shocks,” Palo Alto Networks deploys custom AI-powered cost anomaly detectionBy Kuntal Patel • 8-minute read</description>
+    </item>
+    <item>
+      <title>How Fullstory uncovers user insights with Vertex AI serving Gemini 1.5 Pro</title>
+      <link>https://cloud.google.com/blog/topics/partners/how-fullstory-uses-vertex-ai-and-gemini-to-boost-conversion-rates</link>
+      <description>PartnersHow Fullstory uncovers user insights with Vertex AI serving Gemini 1.5 ProBy Kevin Wang • 7-minute read</description>
+    </item>
+    <item>
+      <title>How Vertex AI’s vector search helps unlock high-performance gen AI apps</title>
+      <link>https://cloud.google.com/blog/products/ai-machine-learning/build-fast-and-scalable-ai-applications-with-vertex-ai</link>
+      <description>AI &amp; Machine LearningHow Vertex AI’s vector search helps unlock high-performance gen AI appsBy Eran Lewis • 7-minute read</description>
+    </item>
+    <item>
+      <title>Google Cloud and Swift pioneer advanced AI and federated learning tech to help combat payments fraud</title>
+      <link>https://cloud.google.com/blog/products/identity-security/google-cloud-and-swift-pioneer-advanced-ai-and-federated-learning-tech</link>
+      <description>Security &amp; IdentityGoogle Cloud and Swift pioneer advanced AI and federated learning tech to help combat payments fraudBy Vineet Dave • 7-minute read</description>
+    </item>
+    <item>
+      <title>Improve your security posture with expanded Custom Org Policy</title>
+      <link>https://cloud.google.com/blog/products/identity-security/announcing-expanded-custom-org-policy-portfolio-of-supported-products</link>
+      <description>Security &amp; IdentityImprove your security posture with expanded Custom Org PolicyBy Akshay Datar • 4-minute read</description>
+    </item>
+    <item>
+      <title>How Google Cloud helps navigate your DPIA and AI privacy compliance journey</title>
+      <link>https://cloud.google.com/blog/products/identity-security/how-google-cloud-helps-navigate-your-dpia-and-ai-privacy-compliance-journey</link>
+      <description>Security &amp; IdentityHow Google Cloud helps navigate your DPIA and AI privacy compliance journeyBy Marc Crandall • 3-minute read</description>
+    </item>
+    <item>
+      <title>How Dun &amp; Bradstreet is transforming software development with Gemini Code Assist</title>
+      <link>https://cloud.google.com/blog/products/ai-machine-learning/dun-bradstreet-gemini-code-assist-software-development-lifecycle</link>
+      <description>AI &amp; Machine LearningHow Dun &amp; Bradstreet is transforming software development with Gemini Code AssistBy Ryan J. Salva • 5-minute read</description>
+    </item>
+    <item>
+      <title>A look back at Chrome Enterprise in 2024: Strengthening security and improving productivity in the browser</title>
+      <link>https://cloud.google.com/blog/products/chrome-enterprise/a-look-back-at-chrome-enterprise-in-2024-strengthening-security-and-improving-productivity-in-the-browser</link>
+      <description>Chrome EnterpriseA look back at Chrome Enterprise in 2024: Strengthening security and improving productivity in the browserBy Hakan Kilic • 3-minute read</description>
+    </item>
+    <item>
+      <title>What’s new with Google Cloud</title>
+      <link>https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud</link>
+      <description>Inside Google CloudWhat’s new with Google CloudBy Google Cloud Content &amp; Editorial  • 13-minute read</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>DeveloperNvidiaBlog</title>
+    <link>https://developer.nvidia.com/zh-cn/blog/recent-posts/</link>
+    <description>Latest posts from https://developer.nvidia.com/zh-cn/blog/recent-posts/. follow.is: None</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Sun, 15 Dec 2024 01:48:55 +0000</lastBuildDate>
+    <item>
+      <title>TensorRT-LLM 低精度推理优化：从速度和精度角度的 FP8 vs INT8 的全面解析</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/tensorrt-llm-low-precision-inference-optimization-fp8-int8/</link>
+      <description>2024年 11月 20日TensorRT-LLM 低精度推理优化：从速度和精度角度的 FP8 vs INT8 的全面解析本文将分享 TensorRT-LLM 中低精度量化内容，并从精度和速度角度对比 FP8 与 INT8。首先介绍性能，包括速度和精度。其次，5 MIN READ</description>
+    </item>
+    <item>
+      <title>借助视觉问答和多模态检索推进神经科学研究</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/advancing-neuroscience-research-with-visual-question-answering-and-multimodal-retrieval/</link>
+      <description>2024年 11月 20日借助视觉问答和多模态检索推进神经科学研究领先的医疗健康组织正在转向生成式 AI，以帮助构建能够带来挽救生命影响的应用。这些组织包括印度理工学院 – IIT Madras 大脑中心 。2 MIN READ</description>
+    </item>
+    <item>
+      <title>使用 EMBark 加速大规模推荐系统嵌入式训练优化</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/boost-large-scale-recommendation-system-training-embedding-using-embark/</link>
+      <description>2024年 11月 20日使用 EMBark 加速大规模推荐系统嵌入式训练优化推荐系统是互联网行业的核心，而高效地训练这些系统对于各大公司来说是一个关键问题。大多数推荐系统是深度学习推荐模型（DLRMs），2 MIN READ</description>
+    </item>
+    <item>
+      <title>使用 NVIDIA NIM 构建您的人工在环 AI 智能体首秀</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/build-your-first-human-in-the-loop-ai-agent-with-nvidia-nim/</link>
+      <description>2024年 11月 21日使用 NVIDIA NIM 构建您的人工在环 AI 智能体首秀由 大语言模型（LLMs） 提供支持的 AI 智能体 可帮助组织简化和减少手动工作负载。这些智能体使用多层迭代推理来分析问题、设计解决方案，5 MIN READ</description>
+    </item>
+    <item>
+      <title>利用 NVIDIA NIM 实现 AI 模型微调部署</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/deploying-fine-tuned-ai-models-with-nvidia-nim/</link>
+      <description>2024年 11月 21日利用 NVIDIA NIM 实现 AI 模型微调部署对于使用特定领域数据调整 AI 基础模型的组织而言，快速创建和部署微调模型的能力是高效地通过企业生成式 AI 应用提供价值的关键。2 MIN READ</description>
+    </item>
+    <item>
+      <title>RAPIDS 与 Dask 结合实现多 GPU 数据分析的高效实践指南</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/best-practices-for-multi-gpu-data-analysis-using-rapids-with-dask/</link>
+      <description>2024年 11月 21日RAPIDS 与 Dask 结合实现多 GPU 数据分析的高效实践指南随着我们向更密集的计算基础设施迈进，拥有更多的计算、更多的 GPU、加速网络等，多 GPU 训练和分析变得越来越流行。1 MIN READ</description>
+    </item>
+    <item>
+      <title>聚焦：借助 AVEVA 动态模拟和 NVIDIA Raptor 推进自动驾驶操作</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/spotlight-advancing-autonomous-operations-with-aveva-dynamic-simulation-and-nvidia-raptor/</link>
+      <description>2024年 11月 21日聚焦：借助 AVEVA 动态模拟和 NVIDIA Raptor 推进自动驾驶操作工业工程师正在利用人工智能构建先进的流程模拟解决方案，并加快能源、电力和化学行业实现完全自主运营的进程。2 MIN READ</description>
+    </item>
+    <item>
+      <title>NVIDIA 和 Windows 365 共同推动 AI 智能工作负载发展</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/powering-ai-augmented-workloads-with-nvidia-and-windows-365/</link>
+      <description>2024年 11月 21日NVIDIA 和 Windows 365 共同推动 AI 智能工作负载发展我们正在进入 AI 赋能数字工作流程的新时代，Windows 365 云 PC 是动态平台，托管 AI 技术并重塑传统流程。3 MIN READ</description>
+    </item>
+    <item>
+      <title>NVIDIA JetPack 6.1 通过摄像头堆栈优化和固件 TPM 实现性能和安全性提升</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/nvidia-jetpack-6-1-boosts-performance-and-security-through-camera-stack-optimizations-and-introduction-of-firmware-tpm/</link>
+      <description>2024年 11月 21日NVIDIA JetPack 6.1 通过摄像头堆栈优化和固件 TPM 实现性能和安全性提升NVIDIA JetPack 不断演进，为满足 边缘 AI 和机器人开发者 的不断增长需求提供最新的软件。每个版本中，2 MIN READ</description>
+    </item>
+    <item>
+      <title>AI 通过视网膜扫描检测阿尔茨海默症早期征兆</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/ai-unlocks-early-clues-to-alzheimers-through-retinal-scans/</link>
+      <description>2024年 11月 21日AI 通过视网膜扫描检测阿尔茨海默症早期征兆通过一项突破性的 AI 研究 ，您的眼睛可以掌握早期发现阿尔茨海默症和痴呆症的关键。1 MIN READ</description>
+    </item>
+    <item>
+      <title>聚焦：TCS 利用 NVIDIA 生成式 AI 将汽车软件测试速度提高 2 倍</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/spotlight-tcs-increases-automotive-software-testing-speeds-by-2x-using-nvidia-generative-ai/</link>
+      <description>2024年 11月 22日聚焦：TCS 利用 NVIDIA 生成式 AI 将汽车软件测试速度提高 2 倍生成式 AI 正在改变汽车行业的各个方面，包括软件开发、测试、用户体验、个性化和安全性。随着汽车行业从机械驱动转向软件驱动，2 MIN READ</description>
+    </item>
+    <item>
+      <title>Hymba 混合头架构提高小型语言模型性能</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/hymba-hybrid-head-architecture-boosts-small-language-model-performance/</link>
+      <description>2024年 11月 22日Hymba 混合头架构提高小型语言模型性能Transformer 及其基于注意力的架构，凭借强大的性能、并行化功能以及通过键值 (KV) 缓存进行的长期召回，已成为语言模型 (LM)…5 MIN READ</description>
+    </item>
+    <item>
+      <title>借助 2D 和 3D 数字人虚拟形象扩展 AI 智能体界面选项</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/expanding-ai-agent-interface-options-with-2d-and-3d-digital-human-avatars/</link>
+      <description>2024年 11月 22日借助 2D 和 3D 数字人虚拟形象扩展 AI 智能体界面选项在与 生成式 AI 应用程序交互时，用户有多种通信选项 – 文本、语音或通过数字化的虚拟形象。1 MIN READ</description>
+    </item>
+    <item>
+      <title>如何使用 FP8 加速大模型训练</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/fp8-accelerate-llm-training/</link>
+      <description>2024年 12月 10日如何使用 FP8 加速大模型训练利用 FP8 技术加速 LLM 推理和训练越来越受到关注，本文主要和大家介绍如何使用 FP8 这项新技术加速大模型的训练。4 MIN READ</description>
+    </item>
+    <item>
+      <title>NVIDIA Air 简要介绍</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/an-introduction-to-nvidia-air/</link>
+      <description>2024年 12月 12日NVIDIA Air 简要介绍AI 的出现带来了一种新型数据中心，即 AI 工厂 ，专门用于处理 AI 工作负载。AI 工作负载的范围和规模可能会有很大差异，2 MIN READ</description>
+    </item>
+    <item>
+      <title>借助 NVIDIA Earth-2 推进太阳辐射预测</title>
+      <link>https://developer.nvidia.com/zh-cn/blog/advancing-solar-irradiance-prediction-with-nvidia-earth-2/</link>
+      <description>2024年 12月 12日借助 NVIDIA Earth-2 推进太阳辐射预测随着全球电力需求持续上升，传统能源的可持续性与日俱增。能源提供商面临的压力是，减少对矿物燃料的依赖，同时确保电网供应充足且稳定。在这种背景下，3 MIN READ</description>
+    </item>
+  </channel>
+</rss>
