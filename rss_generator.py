@@ -101,8 +101,8 @@ def main():
             with open(readme_path, 'a', encoding='utf-8') as readme_file:
                 readme_file.write(f"""## {site['name']}
 - 原网址：{site['url']}
-- 订阅源：https://raw.githubusercontent.com/cc239/w2r/refs/heads/master/{file_name}
-- Follow订阅跳转：[follow://add?url=https://raw.githubusercontent.com/cc239/w2r/refs/heads/master/{file_name}](follow://add?url=https://raw.githubusercontent.com/cc239/w2r/refs/heads/master/{file_name})\n\n""")
+- 订阅源：https://raw.githubusercontent.com/cc239/w2r/refs/heads/main/{file_name}
+- Follow订阅跳转：[follow://add?url=https://raw.githubusercontent.com/cc239/w2r/refs/heads/main/{file_name}](follow://add?url=https://raw.githubusercontent.com/cc239/w2r/refs/heads/main/{file_name})\n\n""")
                 
         except Exception as e:
             print(f"Error generating RSS feed for {site['url']}: {e}")
