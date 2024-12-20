@@ -6,17 +6,7 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Dec 2024 00:48:04 +0000</lastBuildDate>
-    <item>
-      <title>Generative AI in 2025: What Is GenAI?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/generative-ai.html</link>
-      <description>Did ChatGPT or Bard write this article? Are those dogs AI-created? We’ll let you decide, as you read the greatest explainer of Generative AI today.</description>
-    </item>
-    <item>
-      <title>What is SQL Injection?</title>
-      <link>https://www.splunk.com/en_us/blog/learn/sql-injection.html</link>
-      <description>Injecting anything is rarely a good thing. When injection hijacks your SQL and interferes with your primary web systems, you’re in real trouble. Find out here.</description>
-    </item>
+    <lastBuildDate>Fri, 20 Dec 2024 00:45:12 +0000</lastBuildDate>
     <item>
       <title>Education Empowerment: Insights from the 2024 Splunk Career Impact Report</title>
       <link>https://www.splunk.com/en_us/blog/leadership/insights-from-2024-splunk-career-impact-report.html</link>
@@ -51,6 +41,16 @@
       <title>What Are SLMs? Small Language Models, Explained</title>
       <link>https://www.splunk.com/en_us/blog/learn/small-language-models-slms.html</link>
       <description>Large language models have changed the world. What about small language models? Learn what SLMs are, how they differ from LLMs, and why SLMs are the future.</description>
+    </item>
+    <item>
+      <title>SAST vs. DAST vs. RASP: Comparing AppSec Security Testing Methods</title>
+      <link>https://www.splunk.com/en_us/blog/learn/sast-vs-dast.html</link>
+      <description>Building secure apps is the only way forward. Learn about security testing solutions SAST, DAST, and RASP, as they offer multi-layered protection for applications</description>
+    </item>
+    <item>
+      <title>SCADA Systems: What They Are &amp; How They Work</title>
+      <link>https://www.splunk.com/en_us/blog/learn/scada-systems.html</link>
+      <description>SCADA is a common industrial control system. Let’s understand how SCADA systems work, including the various components, and also look at the challenges today.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>
