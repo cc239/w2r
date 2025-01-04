@@ -20,11 +20,6 @@
 - 订阅源：https://raw.githubusercontent.com/cc239/w2r/refs/heads/main/rss/github_trending.xml
 - Follow订阅跳转：[follow://add?url=https://raw.githubusercontent.com/cc239/w2r/refs/heads/main/rss/github_trending.xml](follow://add?url=https://raw.githubusercontent.com/cc239/w2r/refs/heads/main/rss/github_trending.xml)
 
-## anthropic_news
-- 原网址：https://www.anthropic.com/news
-- 订阅源：https://raw.githubusercontent.com/cc239/w2r/refs/heads/main/rss/anthropic_news.xml
-- Follow订阅跳转：[follow://add?url=https://raw.githubusercontent.com/cc239/w2r/refs/heads/main/rss/anthropic_news.xml](follow://add?url=https://raw.githubusercontent.com/cc239/w2r/refs/heads/main/rss/anthropic_news.xml)
-
 ## cve_news
 - 原网址：https://www.cve.org/Media/News/AllNews
 - 订阅源：https://raw.githubusercontent.com/cc239/w2r/refs/heads/main/rss/cve_news.xml
