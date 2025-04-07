@@ -6,7 +6,17 @@
     <description>Latest posts from https://www.splunk.com/en_us/blog. follow.is: feedId:71371191432910867+userId:71370844472670208</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Apr 2025 00:53:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 00:53:10 +0000</lastBuildDate>
+    <item>
+      <title>RSAC™ 2025 Conference: The Complete Guide</title>
+      <link>https://www.splunk.com/en_us/blog/learn/rsa-conference.html</link>
+      <description>This blog post is the complete guide to the 2025 RSA conference.</description>
+    </item>
+    <item>
+      <title>Sinister SQL Queries and How to Catch Them</title>
+      <link>https://www.splunk.com/en_us/blog/security/guide-detect-sinister-sql-attacks.html</link>
+      <description>Discover comprehensive strategies for detecting and mitigating SQL Server attacks.</description>
+    </item>
     <item>
       <title>What Is a SOC? Security Operations Centers: A Complete Overview</title>
       <link>https://www.splunk.com/en_us/blog/learn/soc-security-operation-center.html</link>
@@ -41,16 +51,6 @@
       <title>Defending at Machine-Speed: Accelerated Threat Hunting with Open Weight LLM Models</title>
       <link>https://www.splunk.com/en_us/blog/security/defending-machine-speed-threat-hunting-open-weight-llms.html</link>
       <description>Splunker Ryan Fetterman explains how Splunk DSDL 5.2 enhances cybersecurity operations, streamlining PowerShell script classification and reducing analyst workload by 250x.</description>
-    </item>
-    <item>
-      <title>Observability Costs: Tips for More Efficient Data Management</title>
-      <link>https://www.splunk.com/en_us/blog/observability/observability-data-management-efficient-tips.html</link>
-      <description>Splunker Joanna Zouhour explores tips for utilizing OpenTelemetry and Splunk's advanced tools to separate valuable data from noise and streamline your observability practice.</description>
-    </item>
-    <item>
-      <title>Splunk, a Cisco Company, is Setting Records with Innovation Partner AWS</title>
-      <link>https://www.splunk.com/en_us/blog/partners/splunk-a-cisco-company-is-setting-records-with-innovation-partner-aws.html</link>
-      <description>Gretchen O’Hara reflects on Splunk’s innovative partnership with AWS.</description>
     </item>
     <item>
       <title>What is Observability? An Introduction</title>
