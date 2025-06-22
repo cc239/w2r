@@ -6,11 +6,16 @@
     <description>Latest posts from https://github.com/trending. follow.is: None</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Jun 2025 00:54:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 01:02:10 +0000</lastBuildDate>
     <item>
-      <title>moby /buildkit</title>
-      <link>https://github.com/moby/buildkit</link>
-      <description>concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit</description>
+      <title>n8n-io /n8n</title>
+      <link>https://github.com/n8n-io/n8n</link>
+      <description>Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.</description>
+    </item>
+    <item>
+      <title>unionlabs /union</title>
+      <link>https://github.com/unionlabs/union</link>
+      <description>The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</description>
     </item>
     <item>
       <title>n8n-io /self-hosted-ai-starter-kit</title>
@@ -18,9 +23,19 @@
       <description>The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.</description>
     </item>
     <item>
-      <title>anthropics /anthropic-cookbook</title>
-      <link>https://github.com/anthropics/anthropic-cookbook</link>
-      <description>A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</description>
+      <title>ourongxing /newsnow</title>
+      <link>https://github.com/ourongxing/newsnow</link>
+      <description>Elegant reading of real-time and hottest news</description>
+    </item>
+    <item>
+      <title>cyclotruc /gitingest</title>
+      <link>https://github.com/cyclotruc/gitingest</link>
+      <description>Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase</description>
+    </item>
+    <item>
+      <title>DrKLO /Telegram</title>
+      <link>https://github.com/DrKLO/Telegram</link>
+      <description>Telegram for Android source</description>
     </item>
     <item>
       <title>rasbt /LLMs-from-scratch</title>
@@ -28,49 +43,9 @@
       <description>Implement a ChatGPT-like LLM in PyTorch from scratch, step by step</description>
     </item>
     <item>
-      <title>ManimCommunity /manim</title>
-      <link>https://github.com/ManimCommunity/manim</link>
-      <description>A community-maintained Python framework for creating mathematical animations.</description>
-    </item>
-    <item>
-      <title>n8n-io /n8n</title>
-      <link>https://github.com/n8n-io/n8n</link>
-      <description>Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.</description>
-    </item>
-    <item>
-      <title>gabime /spdlog</title>
-      <link>https://github.com/gabime/spdlog</link>
-      <description>Fast C++ logging library.</description>
-    </item>
-    <item>
-      <title>vllm-project /vllm</title>
-      <link>https://github.com/vllm-project/vllm</link>
-      <description>A high-throughput and memory-efficient inference and serving engine for LLMs</description>
-    </item>
-    <item>
-      <title>Mail-0 /Zero</title>
-      <link>https://github.com/Mail-0/Zero</link>
-      <description>Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord:https://discord.gg/mail0</description>
-    </item>
-    <item>
-      <title>grafana /loki</title>
-      <link>https://github.com/grafana/loki</link>
-      <description>Like Prometheus, but for logs.</description>
-    </item>
-    <item>
-      <title>YimMenu /YimMenuV2</title>
-      <link>https://github.com/YimMenu/YimMenuV2</link>
-      <description>Experimental menu for GTA 5: Enhanced</description>
-    </item>
-    <item>
-      <title>php /frankenphp</title>
-      <link>https://github.com/php/frankenphp</link>
-      <description>🧟 The modern PHP app server</description>
-    </item>
-    <item>
-      <title>automatisch /automatisch</title>
-      <link>https://github.com/automatisch/automatisch</link>
-      <description>The open source Zapier alternative. Build workflow automation without spending time and money.</description>
+      <title>DataExpert-io /data-engineer-handbook</title>
+      <link>https://github.com/DataExpert-io/data-engineer-handbook</link>
+      <description>This is a repo with links to everything you'd ever want to learn about data engineering</description>
     </item>
     <item>
       <title>dail8859 /NotepadNext</title>
@@ -78,9 +53,14 @@
       <description>A cross-platform, reimplementation of Notepad++</description>
     </item>
     <item>
-      <title>DataExpert-io /data-engineer-handbook</title>
-      <link>https://github.com/DataExpert-io/data-engineer-handbook</link>
-      <description>This is a repo with links to everything you'd ever want to learn about data engineering</description>
+      <title>patchy631 /ai-engineering-hub</title>
+      <link>https://github.com/patchy631/ai-engineering-hub</link>
+      <description>In-depth tutorials on LLMs, RAGs and real-world AI agent applications.</description>
+    </item>
+    <item>
+      <title>typst /typst</title>
+      <link>https://github.com/typst/typst</link>
+      <description>A new markup-based typesetting system that is powerful and easy to learn.</description>
     </item>
   </channel>
 </rss>
